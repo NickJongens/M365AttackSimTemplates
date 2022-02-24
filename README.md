@@ -2,12 +2,12 @@
 A list of Defender for Office 365 (Plan 2) Attack Simulator templates used for Phishing Simulations.
 
 
-Dynamic Tag Variables:
+## Dynamic Tag Variables:
 
-Username:
+### Username:
 ```${userName}```
-Email/UPN:
+### Email/UPN:
 ```${emailAddress}```
 
-Phishing Link example:
+### Phishing Link example:
 ```<a href="${phishingUrl}" target="_blank">TEXT TO DISPLAY</a>```

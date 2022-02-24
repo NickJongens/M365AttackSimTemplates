@@ -6,7 +6,7 @@ A list of Defender for Office 365 (Plan 2) Attack Simulator templates used for P
 
 ### Username:
 ```${userName}```
-### Email/UPN:
+### Email:
 ```${emailAddress}```
 
 ### Phishing Link example:

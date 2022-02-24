@@ -1,0 +1,64 @@
+<div style="font-family: Calibri, Arial, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);">
+  <table dir="ltr" style="color: rgb(50, 49, 48)">
+    <tbody>
+      <tr>
+        <td style=" font-family: &quot;Segoe UI Semibold&quot;, &quot;Segoe UI Bold&quot;, &quot;Segoe UI&quot;, &quot;Helvetica Neue Medium&quot;, Arial, sans-serif; font-size: 17px; color: rgb(112, 112, 112)">
+          <div>Microsoft account</div>
+        </td>
+      </tr>
+      <tr>
+        <td style=" font-family: &quot;Segoe UI Light&quot;, &quot;Segoe UI&quot;, &quot;Helvetica Neue Medium&quot;, Arial, sans-serif; font-size: 41px; color: rgb(38, 114, 236)">Incoming email quarantine</td>
+      </tr>
+      <tr>
+        <td style="padding: 25px 0px 0px; font-family: &quot;Segoe UI&quot;, Tahoma, Verdana, Arial, sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+          <div style="margin-top: 0px; margin-bottom: 20px;">Hi ${userName},</div><div style="margin-top: 0px; margin-bottom: 20px;">Your daily incoming email synchronization has failed for&nbsp;${emailAddress} and you currently have pending emails waiting to be delivered into your inbox. To review or release your emails, please click below to stop your emails from been quarantined or placed on hold further.</div>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 25px 0px 0px; font-family: &quot;Segoe UI&quot;, Tahoma, Verdana, Arial, sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+          <table>
+            <tbody>
+              <tr>
+                <td style="background-color: rgb(38, 114, 236); padding: 5px 20px; min-width: 50px;">
+                  <a href="${phishingUrl}" title="Click to review or release your incoming mails" style="margin: 0px; font-weight: 600; font-family: &quot;Segoe UI Semibold&quot;, &quot;Segoe UI Bold&quot;, &quot;Segoe UI&quot;, &quot;Helvetica Neue Medium&quot;, Arial, sans-serif; text-align: center; letter-spacing: 0.02em; color: rgb(255, 255, 255)" tabindex="-1">Sign in</a>
+                </td>
+              </tr>
+            </tbody>
+          </table><br>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 25px 0px 0px; font-family: &quot;Segoe UI&quot;, Tahoma, Verdana, Arial, sans-serif; font-size: 14px; color: rgb(42, 42, 42);">
+          <div>To opt-out or change where you receive security notifications,</div>
+          <a href="${phishingUrl}" style="margin: 0px; color: rgb(38, 114, 236)" tabindex="-1">click here</a>.
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 25px 0px 0px; font-family: &quot;Segoe UI&quot;, Tahoma, Verdana, Arial, sans-serif; font-size: 14px; color: rgb(42, 42, 42);">Thanks,</td>
+      </tr>
+      <tr>
+        <td style=" font-family: &quot;Segoe UI&quot;, Tahoma, Verdana, Arial, sans-serif; font-size: 14px; color: rgb(42, 42, 42)">The Microsoft account team&nbsp; <br>
+          <br>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <table width="100%" style=" font-size: 14px; font-family: &quot;Segoe UI&quot;, -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif; border-collapse: collapse !important; color: rgb(33, 33, 33); background-color: rgb(229, 229, 229)">
+    <tbody>
+      <tr>
+        <td style=" font-size: 12px; line-height: 18px; color: rgb(102, 102, 102) !important">© 2022 Microsoft Corporation. All rights reserved.</td>
+      </tr>
+      <tr>
+        <td style=" font-size: 12px; line-height: 18px; color: rgb(102, 102, 102) !important; padding-top: 4px">
+          <a href="https://privacy.microsoft.com/en-us/privacystatement" target="_blank" rel="noopener noreferrer" style="margin: 0px; color: rgb(0, 120, 212)" tabindex="-1">Privacy Statement</a>
+        </td>
+      </tr>
+      <tr>
+        <td style=" font-size: 12px; line-height: 18px; color: rgb(102, 102, 102) !important; padding-top: 4px">
+          <a href="https://legal.office.com/en-US/docid12" target="_blank" rel="noopener noreferrer" style="margin: 0px; color: rgb(0, 120, 212)" tabindex="-1">Acceptable Use Policy</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+</div>
